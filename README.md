@@ -60,6 +60,7 @@ To get this project up and running on your local machine, follow these steps.
 Once the setup is complete, you can run the Streamlit application with the following command:
 
 ```bash
+pip install -r requirements.txt
 streamlit run data.py
 ```
 
